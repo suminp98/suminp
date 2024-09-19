@@ -9,11 +9,6 @@ author_profile: true
   
 {% include base_path %}
 
-# <b>Preprints</b>
- ======
-# <b>Technical Reports</b>
-# ======
-
 
 <b>Peer-reviewed Journal</b>
 ======
