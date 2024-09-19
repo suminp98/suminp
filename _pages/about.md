@@ -11,4 +11,4 @@ redirect_from:
 [Curriculum Vitae (CV)](https://suminp.github.io/files/Sumin_Park_CV-20221110.pdf)
 
 
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+I'm a graduate student under the guidance of Prof. Xueding Wang at the University of Michigan. I completed my Bachelor and Master studies at the Pukyong National University under the supervision of Prof. Junghwan Oh.  My research interests include nanotechnology, photoacoustic microscopy, fluorescence microscopy, and image processing.
